@@ -1,1 +1,3 @@
-The repository of the character of Intobox "Seb" and his variations.
+## Seb
+
+The repository of the "Seb" and his variations.
